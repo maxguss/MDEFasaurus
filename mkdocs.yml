@@ -11,11 +11,13 @@ repo_url:
 nav:
   - Home: index.md
   - About: about/me.md
-  - Reflections :
-      - Term 1:
-          - Prologue: term1/ch0_AoWS-Manifesto.md
-          - Chapter 01: term1/ch1_Embodied-Prototypes.md
-
+  - Design Studio I:
+    - AoWS: 251005_AoWS.md
+    - Design Bet: 251006_Design-Bet.md
+    - 1pp/Manifesto: 251022_Manifesto.md
+  - Fundamentals for Future Makers:
+  - Reflections I:
+    - Living With Your Own Ideas: 251102_Living-With-Your-Own-Ideas.md
 
 
 
