@@ -9,15 +9,15 @@ repo_url:
 
 
 nav:
-  - Home: index.md
-  - About: about/me.md
+  - Home: 'index.md'
+  - About: 'about/me.md'
   - Design Studio I:
-    - AoWS: term_1/Design_Studio_1/251005_AoWS.md
-    - Design Bet: term_1/Design_Studio_1/251006_Design-Bet.md
-    - 1pp/Manifesto: term_1/Design_Studio_1/251022_Manifesto.md
+    - AoWS: 'term_1/Design_Studio_1/251005_AoWS.md'
+    - Design Bet: 'term_1/Design_Studio_1/251006_Design-Bet.md'
+    - 1pp/Manifesto: 'term_1/Design_Studio_1/251022_Manifesto.md'
 #  - Fundamentals for Future Makers:
   - Reflections I:
-    - Living With Your Own Ideas: term_1/Reflections_1/251102_Living-With-Your-Own-Ideas.md
+    - Living With Your Own Ideas: 'term_1/Reflections_1/251102_Living-With-Your-Own-Ideas.md'
 
 
 
