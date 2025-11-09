@@ -8,22 +8,22 @@ Our first lecture was focussed mainly on redefining prosthetics and expanding th
 
 The core idea of my prototype is to subvert the gender dysphoria narratives around the hairline for transfemme individuals. Those assigned male at birth (AMAB) frequently have some form of hair loss even in the form of a marginally receded hairline called a widows peak. Even slight deviations in this hairline can be a painful experience for those not looking to identify and express themselves as male. The widows peak often denies transgender women the feeling of being able to match the feminine narratives they subscribe to. My prototype is a prosthesis that breaks down the narrative around this section of the hairline.
 
-![](/images/Living-With-Your-Own-Ideas/Horn-Varieties.jpg)
+![](/MDEFasaurus/images/Living-With-Your-Own-Ideas/Horn-Varieties.jpg)
 
 Yes, these are horns! By putting prosthetic horns in this contested space, we can create new anti-masculine narratives around ornamentation and self expression. This creates a new opportunity for transfemme individuals to both question their narratives around gender expression and reclaim a part of themselves that they may feel disphoric towards.
 
-<video src="/images/Living-With-Your-Own-Ideas/Horn-Application.mp4" width="320" height="240" controls></video>
+<video src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Horn-Application.mp4" width="320" height="240" controls></video>
 
-<img src="/images/Living-With-Your-Own-Ideas/Horn-Left.jpg" alt="" width="200"/><img src="/images/Living-With-Your-Own-Ideas/Horn-Front.jpg" alt="" width="200"/><img src="/images/Living-With-Your-Own-Ideas/Horn-Right.jpg" alt="" width="200"/>
+<img src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Horn-Left.jpg" alt="" width="200"/><img src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Horn-Front.jpg" alt="" width="200"/><img src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Horn-Right.jpg" alt="" width="200"/>
 
 ### Day 2 - Becoming Something Else
 
 Our second lecture focussed on the prospect of our lecturer's process of creating prosthetics to allow himself to become a goat. It was particularly interesting to me how his initial motivations formed his research. He was interested in becoming an animal to have a vacation from being a human. In other words he was initially using animal embodiment to navigate his own depression. We had a day to make a prosthetic to become something else, and as his prototype lingered in my mind I asked myself how I wanted to navigate my feelings of grief I was working through in my personal life.
 
 As such I made this:
-<video src="/images/Living-With-Your-Own-Ideas/Trash_Vid.mp4" width="320" height="240" controls></video>
+<video src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Trash_Vid.mp4" width="320" height="240" controls></video>
 
-<img src="/images/Living-With-Your-Own-Ideas/Trash_Front.jpg" alt="" width="200"/><img src="/images/Living-With-Your-Own-Ideas/Trash_Side.jpg" alt="" width="200"/>
+<img src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Trash_Front.jpg" alt="" width="200"/><img src="/MDEFasaurus/images/Living-With-Your-Own-Ideas/Trash_Side.jpg" alt="" width="200"/>
 
 This is a trash poncho. I made it because I wondered if maybe embodying trash might allow me to feel my feelings more deeply. In life we have to experience everything. If we don't let ourselves feel the low points we won't be able to truly experience high moments either. I want to appreciate my humanity for what it is. I don't think becoming something to escape humanity makes sense to me.
 
@@ -71,7 +71,7 @@ Then the subject attempts confrontation. Evasive maneuvers required.
 1:18 Subject standing still while focused on their phone. More laughter.  
 1:19 More pursuit.  
 1:20 The subject is distracted. Imaging subject.
-![](/images/Living-With-Your-Own-Ideas/Imaging_Subject.jpg)
+![](/MDEFasaurus/images/Living-With-Your-Own-Ideas/Imaging_Subject.jpg)
 1:21 Subject appears to be having fun pursuing me.  
 1:22 Occasional bursts of running and laughter from the subject.  
 1:23 After unexpected external variables, the subject attempted to hide. Fails.  
